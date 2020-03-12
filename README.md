@@ -3,7 +3,7 @@
 
 # Description
 
-Create and manage service center for a car company. Carry out functionalities like type of service needed for a car, cost calculation, maintaining invoice of service parts.
+Create and manage service center for a car company. Carry out functionalities like type of service needed for a car, cost calculation, maintaining invoice of service parts. Login profiles include a manager (admin), workers, customers
 
 
 ## What I learnt?
